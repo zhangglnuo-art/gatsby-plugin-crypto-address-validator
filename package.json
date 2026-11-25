@@ -1,0 +1,31 @@
+{
+  "name": "gatsby-plugin-crypto-address-validator",
+  "version": "1.0.0",
+  "description": "Zero-dependency Gatsby plugin for validating multi-chain cryptocurrency wallet address syntax, checksums, mandatory Memo/Destination Tag routing rules, and vanity address-poisoning defense across 46+ blockchain networks.",
+  "main": "index.js",
+  "homepage": "https://allswap.io/tools/address-validator",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangglnuo-art/gatsby-plugin-crypto-address-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhangglnuo-art/gatsby-plugin-crypto-address-validator/issues"
+  },
+  "license": "MIT",
+  "author": "AllSwap Security Labs <zhangglnuo@gmail.com> (https://allswap.io)",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "blockchain",
+    "cryptocurrency",
+    "address-validator",
+    "address-poisoning",
+    "memo-validator",
+    "web3",
+    "security",
+    "allswap"
+  ],
+  "peerDependencies": {
+    "gatsby": "^3.0.0 || ^4.0.0 || ^5.0.0"
+  }
+}
